@@ -1,0 +1,36 @@
+.themed-grid-col {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    background-color: rgba(112.520718, 44.062154, 249.437846, .25);
+    border: 1px solid rgba(112.520718, 44.062154, 249.437846, .53);
+    border-radius: 0.4rem;
+}
+
+.gradient-background {
+    background: linear-gradient(300deg, #690981, #df2d80, #f579e4);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+.clean-background {
+    background-color: whitesmoke;
+    color:whitesmoke;
+    font-weight: 500;
+    font-size: large;
+}
+
+header {
+    background-color: rgba(10,10,10,0.8);
+    border-bottom: solid black 1px;
+}
+header * {
+    color:whitesmoke;
+}
+
+li.nav-item a {
+    color:white !important;
+}
+li.nav-item a.nav-link#nav-button {
+    background-color: #690981;
+}
+
