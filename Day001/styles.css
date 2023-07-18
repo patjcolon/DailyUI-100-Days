@@ -1,0 +1,40 @@
+
+.gradient-background {
+    background: linear-gradient(300deg, #690981, #df2d80, #f579e4);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+.page-holder {
+    padding: 1rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+
+.sign-up-img{
+    background-image: url('./assets/images/arcadino.jpg');
+    background-repeat: no-repeat;
+    width: 1200px;
+    min-height:800px;
+    border:solid whitesmoke 8px;
+    border-radius: 5rem;
+    background-size: cover;
+  }
+
+#white-text {
+    color:whitesmoke;
+    background: rgba(10,5,15,0.8);
+    border-radius: 10px;
+    border:solid whitesmoke 1px;
+}
+
+#dice-form {
+    background: rgba(10,5,15,0.8);
+}
+
+#white-form {
+    background: rgba(250,250,250,0.2);
+}
