@@ -32,5 +32,10 @@ I created a sign up page for virtual arcade/casino site.
     it, I know it was great practice!
 
 
-002: 
-----
+002: Credit Card Checkout
+-------------------------
+- Went easy on this one
+- Took advice from online that I should not worry
+    about doing everything from scratch
+- Mainly relied on bootstrap
+- Took inspiration from Dribble post
