@@ -1,0 +1,31 @@
+
+
+.gradient-background {
+    background: linear-gradient(300deg, #690981, #df2d80, #f579e4);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+.page-holder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    min-height: 100vh;
+    width: 100vw;
+}
+
+.main-holder {
+    display:flex;
+    height: max-content;
+    width: max-content;
+    padding:10rem;
+    background-color: whitesmoke;
+}
+
+.purple-font {
+    color: whitesmoke;
+    background-color: indigo;
+    padding:0rem 0.25rem;
+    border-radius: 0.3rem;
+}
